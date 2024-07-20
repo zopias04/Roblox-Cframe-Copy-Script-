@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zopias04/Roblox-cframe-copy-script/main/cframecopy"))();
